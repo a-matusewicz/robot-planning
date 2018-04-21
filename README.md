@@ -1,5 +1,7 @@
 Anna Matusewicz
+
 CS 76 Prof. Balkcom
+
 11/16/17
 ## READ ME:
 Please install annoy, numpy, and shapely libraries
